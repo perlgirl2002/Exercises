@@ -1,0 +1,16 @@
+1.   The head of advertising asks you which they should feature in their new advertising campaign.
+
+In order to best determine which product should be featured in their new advertising campaign, I would first 
+get the webpage associated with the highest activity, then get the webpage/product associated with the highest pageviews, and finally, get the product with the maximum purchases.  For each product, I would calculate the percentage of conversions.  Using all of this information, I would likely try to discover the feature with the highest correlation to purchasing and use that one as the feature product.
+
+2. Signups have slowed, and you are tasked with finding out why. 
+
+First, I would try to find any correlation (decline in signups is directly correlated with a decline in marketing spend per week).  I would develop a diagram showing progression through each step of the onboarding funnel so identify any significant declines from one step to another.  I would see if any step had a significant increase of time (it takes longer, therefore people stop signing up) in any particular step over the last 3 years.  
+
+3.  You are tasked with proposing a better ranking system. 
+
+This one is rather difficult.  THe question does not provide enough information to get to a logical conclusion; specifically, develop a "better ranking system".  Better compared to what?  Compared to how many hotel rooms were booked?  How long people stayed on a page?  Whether the users liked what they saw better and resulted in more positive feedback?  There must be something to judge it by.
+
+4.  Churn
+
+I would perform trend analysis on the timestamped data for users, baseline it, and identify any anomalous churn events over the past 3 years.

@@ -1,0 +1,4 @@
+1. select max(MaxTemperatureF), * from weather -- resulted in a single day 2015-11-17
+2. select start_station, count(start_station) from trips group by start_station
+3. select min(duration) from trips
+4. select avg(duration),end_station from trips group by end_station

@@ -1,0 +1,3 @@
+1. select trip_id, duration from trips where duration > 500 order by duration
+2. select * from stations where stations.station_id=84
+3. select MinTemperatureF from weather where weather.ZIP='94301'

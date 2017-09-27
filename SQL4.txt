@@ -1,0 +1,4 @@
+1. select * from listings order by listings.price desc limit 1
+2. select * from listings group by host_neighbourhood order by review_scores_rating, review_scores_accuracy DESC 
+3.  select * from calendar where price is not '' group by calendar.listing_id order by calendar.price ASC
+

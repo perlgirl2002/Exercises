@@ -1,0 +1,35 @@
+Does a new supplement help people sleep better?
+Two versions -  Old Supplement vs. New Supplement
+A sample -  Population of people that would take the supplement
+a hypothesis -  The new Supplement helps people sleep better
+Outcome - Survey results for the subjective definition of better, or define better as longer and get time slept on new Supplement vs. Old Supplement
+other measured variables -  Age/Gender if available
+
+Will new uniforms help a gym's business?
+Two versions - New uniform vs. Old Uniform
+a sample - Number of new clients per month
+a hypothesis - the new uniform will encourage people to sign up at the gym
+Outcome - The number of new clients increased
+other measured variables - Age/gender if available
+
+Will a new homepage improve my online exotic pet rental business?
+Two versions - New homepage vs. Old homepage
+a sample - people that rent exotic pets
+a hypothesis - THe new homepage will increase rate of exotic pet rentals
+Outcome - the result of the tests, the rate of change
+other measured variables -  homepage clicks, count of rentals
+
+If I put 'please read' in the email subject will more people read my emails?
+Two versions - Old count vs new count
+a sample - count of people that read the emails
+a hypothesis - THe new email will increase read of people that read the emails
+Outcome - the count of people that read the email
+other measured variables -  rate of previous email reads per person, age/gender if available
+
+
+If I put 'please read' in the email subject will more people read my emails?
+Two versions
+a sample
+a hypothesis
+Outcome
+other measured variables

@@ -1,0 +1,10 @@
+When people install the Happy Days Fitness Tracker app, they are asked to "opt in" to a data collection scheme where their level of physical activity data is automatically sent to the company for product research purposes. During your interview with the company, they tell you that the app is very effective because after installing the app, the data show that people's activity levels rise steadily. 
+
+Problem
+Determine the effectiveness of Happy Days Fitness Tracker App
+
+Hypothesis
+Using the Happy Days Fitness Tracker App, people will increase their activity level.
+
+Method of Testing
+Don't let people "opt in".  Deidentify data, include that in the End User License Agreement and send back anonymous metadata concerning usage rates activity.

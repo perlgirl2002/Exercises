@@ -1,0 +1,12 @@
+You're testing advertising emails for a bathing suit company and you test one version of the email in February and the other in May.
+People are typically not shopping for bathing suits in February, but would have a higher click through rate in May when it is closer to summer.
+
+
+You open a clinic to treat anxiety and find that the people who visit show a higher rate of anxiety than the general population.
+The population of people visiting the clinic would have a higher tendency to visit an anxiety clinic IF they had anxiety to begin with. 
+
+You launch a new ad billboard based campaign and see an increase in website visits in the first week.
+You would expect an increase in the first week if the campaign was successful in the billboard.  But you can't be sure that it is related to the billboard.  
+
+You launch a loyalty program but see no change in visits in the first week.
+Too many unobserved variables here.  There could be a lot of different reasons why no change in visits in the first week.  The earth was destroyed.  Networks collapsed.  People never saw the invitation to the loyalty program. 

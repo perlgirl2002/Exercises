@@ -1,0 +1,13 @@
+Categorize each of the variables in the ESS dataset as categorical or continuous, and if continuous as ordinal, interval, or ratio variables.
+Country - Categorical
+year - interval
+idno - ?
+ppltrst - interval
+pplfair - interval
+pplhlp - interval
+happy - ratio
+sclmeet - interval
+sclact - interval
+gndr - categorical
+agea - interval
+partner - categorical

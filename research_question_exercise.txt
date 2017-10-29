@@ -1,0 +1,25 @@
+Categorize each of the following research questions as "good" or "bad", and provide alternative formulations for the bad ones. Save your responses in a document of some kind, submit a link below, and discuss your reasoning with your mentor.
+
+What is the 1994 rate of juvenile delinquency in the U.S.?  Good, simple
+
+What can we do to reduce juvenile delinquency in the U.S.?  Bad.
+This question is too broad.  A better question would be "what factors contribute to juvenile deliquency", or "Out of the factors that contribute to juvenile deliquency, which ones are addressable?"
+
+Does education play a role in reducing juvenile delinquents' return to crime?
+Good.  You can see if there is a correlation between education and juvenile delinquents' return to crime.
+
+How many customers does AT&T currently serve in Washington, DC?
+Bad.  Too simple, no research really required.  A better question might be, what percentage increase or decrease over time has AT&T had for customers in Washington, DC.
+
+What factors lead consumers to choose AT&T over other service providers?  Good.
+
+How can AT&T attract more customers?  Too broad.  What successes in the past has led to an increase in customers?
+
+Why did the Challenger Shuttle explode?  Close.  What factors contributed to the Challenger shuttle explosion?
+
+Which genes are associated with increased risk of breast cancer?  Good.
+
+Is it better to read to children at night or in the morning?  Better is subjective.  Does reading to childdren in the morning or night lead to higher grades in school or higher literacy rate?
+
+How does Google’s search algorithm work?
+Too simple.  How accurate is Google's search algorithm?  How well does Google's search algorithm perform in practice?

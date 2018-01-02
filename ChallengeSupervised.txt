@@ -1,0 +1,31 @@
+Predict the running times of prospective Olympic sprinters using data from the last 20 Olympics.
+I would use Linear Regression.  The running times would be continuous, you should have no values less than zero, and the limit should be reasonable, with few outliers.
+
+
+You have more features (columns) than rows in your dataset.
+Data like this often leads to overfitting.  For this data, I would use Logistic Regression.  For this you can add lasso and ridge regression techniques to generalize the model better to account for overfitting.
+
+
+Identify the most important characteristic predicting likelihood of being jailed before age 20.
+For this I would possibly try multiple feature selection techniques, PCA, SelectKBest, or LASSO regression.
+
+Implement a filter to “highlight” emails that might be important to the recipient
+For this I might use Naive Bayes.  You could develop training data based on emails that the user keeps or marks as "Read" and generate features based on these.  
+
+
+You have 1000+ features.
+I would again try multiple feature selection techniques, and possibly Lasso and Ridge regression to regularize the features.
+
+
+Predict whether someone who adds items to their cart on a website will purchase the items.
+Naive Bayes.  Based on a few other features, I might just predict this probability outright.
+
+Your dataset dimensions are 982400 x 500
+I would use Logistic Regression techniques.  Regression techniques are suited to large amounts of data and can be tuned with regularization.
+
+
+Identify faces in an image.
+Again, I would use Logistic Regression.
+
+Predict which of three flavors of ice cream will be most popular with boys vs girls.
+Depending on the size of the data, I would try to use SVCs.  

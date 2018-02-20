@@ -1,0 +1,12 @@
+Popularity of various Uber drivers. -- No survey
+
+A grocery store wants to know how much people like strawberry, chocolate, and vanilla ice cream.  -- Survey
+
+Trojan wants to know whether their condoms are more popular among straight people or gay people.  -- Survey
+
+Recently, rental rates for HappyCars have increased by 30%, which is quite unusual. -- No survey
+You want to find out why this is happening and how to keep the increase going. 
+
+Assessing the success rate of a new advertising campaign. -- No survey
+
+Measuring the effect of nurse/patient ratio on patient recovery rates in hospital wards. -- No survey
